@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-13T20:23:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2289931673",
+      "properties": {
+        "@id": "node/2289931673",
+        "addr:city": "Kansas City",
+        "addr:housenumber": "101",
+        "addr:postcode": "64105",
+        "addr:street": "East 13th Street",
+        "amenity": "bar",
+        "name": "Flying Saucer",
+        "phone": "816-221-1900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5818996,
+          39.0983609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2291592093",
+      "properties": {
+        "@id": "node/2291592093",
+        "amenity": "bar",
+        "name": "Shark Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5813557,
+          39.0978433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474765190",
+      "properties": {
+        "@id": "node/2474765190",
+        "amenity": "bar",
+        "name": "Makers Mark Bourbon House & Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5818775,
+          39.0979117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474765213",
+      "properties": {
+        "@id": "node/2474765213",
+        "amenity": "bar",
+        "name": "PBR Big Sky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5816714,
+          39.0983405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474765234",
+      "properties": {
+        "@id": "node/2474765234",
+        "amenity": "bar",
+        "name": "Fuego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5818907,
+          39.0980922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474765248",
+      "properties": {
+        "@id": "node/2474765248",
+        "amenity": "bar",
+        "name": "mosaic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58184,
+          39.0980392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474765249",
+      "properties": {
+        "@id": "node/2474765249",
+        "amenity": "bar",
+        "name": "Angels Rock Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.581873,
+          39.0982251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2474765250",
+      "properties": {
+        "@id": "node/2474765250",
+        "amenity": "bar",
+        "name": "Howl at the Moon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5813438,
+          39.0982887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2932185071",
+      "properties": {
+        "@id": "node/2932185071",
+        "amenity": "bar",
+        "name": "Snow & Co",
+        "opening_hours": "Mo-Th 15:00-24:00;Fr 15:00-24:00 Sa 00:00-01:00;Sa 12:00-24:00;Su 00:00-01:00;Su 12:00-24:00",
+        "website": "http://www.snowandcompany.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5858547,
+          39.0913413
+        ]
+      }
+    }
+  ]
+}
