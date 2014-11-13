@@ -1,0 +1,1202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dots and Junk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.64617609977722,
+          38.98593346182063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 16,
+        "PROJ_NAME": "Columbia Bottom",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1514493493386,
+          38.808161258403885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 25,
+        "PROJ_NAME": "Eagle Bluffs",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.40628480712725,
+          38.82728583954997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 78,
+        "PROJ_NAME": "Worthwine Island",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.93581207461989,
+          39.85504652716031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 48,
+        "PROJ_NAME": "Nishnabotna",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66797733223592,
+          40.461435995671344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 40,
+        "PROJ_NAME": "Kickapoo Island",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9255898044956,
+          39.388662330624726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 14,
+        "PROJ_NAME": "Cambridge Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.90175154158675,
+          39.22660988104105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 77,
+        "PROJ_NAME": "Wolf Creek Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.19155100118354,
+          39.91200513065273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 6,
+        "PROJ_NAME": "Benedictine Bottoms",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.07377548280584,
+          39.58958365612378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 38,
+        "PROJ_NAME": "J and O Hare Wildlife Area",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.00491011818502,
+          39.90470842895118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 67,
+        "PROJ_NAME": "Tate Island",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.67135223003424,
+          38.70676949581021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 54,
+        "PROJ_NAME": "Plattsmouth Chute",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.87372953695848,
+          41.03250001292203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 58,
+        "PROJ_NAME": "Rush Bottom Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.40283185855797,
+          40.08365281064146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 20,
+        "PROJ_NAME": "Cranberry Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.42228330516346,
+          39.263698562748424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 21,
+        "PROJ_NAME": "Dalbey Bottoms",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.06567362842678,
+          39.49638599551634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 26,
+        "PROJ_NAME": "Elwood Bottoms",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.91374902552462,
+          39.733413785934644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 56,
+        "PROJ_NAME": "Providence Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3954031354929,
+          38.76882204185105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 4,
+        "PROJ_NAME": "Baltimore Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.65331862328301,
+          39.22942379824281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 35,
+        "PROJ_NAME": "Heckman Island",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.59945061343302,
+          38.6906216784793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 23,
+        "PROJ_NAME": "Deroin Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.53558203882608,
+          40.26269941100816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 45,
+        "PROJ_NAME": "Lower Hamburg Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.76249621529193,
+          40.572968967087306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 34,
+        "PROJ_NAME": "Hamburg Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.75513892912083,
+          40.592682087492896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 13,
+        "PROJ_NAME": "California Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.07595394025236,
+          41.57566963384722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 17,
+        "PROJ_NAME": "Cora Island",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17897498151957,
+          38.83007012955627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 37,
+        "PROJ_NAME": "Indian Cave Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5367409085196,
+          40.2535612400704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 50,
+        "PROJ_NAME": "North Alabama Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.96761995128469,
+          42.762762544568425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 72,
+        "PROJ_NAME": "Tyson Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1068880916493,
+          41.6188902764402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 19,
+        "PROJ_NAME": "Council Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.90915964635695,
+          41.271279822742066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 33,
+        "PROJ_NAME": "Grand River Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09762618580503,
+          39.37729087717343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 10,
+        "PROJ_NAME": "Boyer Chute",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.93939691610943,
+          41.450791551964315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 27,
+        "PROJ_NAME": "Fawn Island (Little Sioux)",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.10845956878494,
+          41.84853013685572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 42,
+        "PROJ_NAME": "Little Sioux Chute",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.07141954609651,
+          41.78113163397293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 59,
+        "PROJ_NAME": "Sandy Point Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.10169935385963,
+          41.65556100856597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 68,
+        "PROJ_NAME": "Three Rivers (Little Sioux)",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.07299893453552,
+          41.808333537201506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 75,
+        "PROJ_NAME": "Weston Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.89006812677302,
+          39.39425095653651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 66,
+        "PROJ_NAME": "Tamerlane Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.38058480984654,
+          39.235892231444424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 1,
+        "PROJ_NAME": "Aspinwall",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6352765495396,
+          40.316604142992965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 9,
+        "PROJ_NAME": "Bootlegger Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.92780430879478,
+          39.1749740662639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 53,
+        "PROJ_NAME": "Overton Bottoms",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.51776135011887,
+          38.923617211642394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 22,
+        "PROJ_NAME": "Deer Island (Little Sioux)",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.10067778438227,
+          41.82133664243027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 51,
+        "PROJ_NAME": "Oak Mills",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9700922619809,
+          39.41209370498914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 2,
+        "PROJ_NAME": "Audubon Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.18418277607056,
+          42.79427926277361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 69,
+        "PROJ_NAME": "Thurnau",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.43593807599972,
+          40.172349635889184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 55,
+        "PROJ_NAME": "Ponca State Park",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.71450699433147,
+          42.61934870738091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 18,
+        "PROJ_NAME": "Corning Site/Hemmies Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.48809236381264,
+          40.25410061585351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 63,
+        "PROJ_NAME": "Sonora Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66846859959995,
+          40.418682441636975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 7,
+        "PROJ_NAME": "Berger Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.33664845725595,
+          38.69223850782072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 5,
+        "PROJ_NAME": "Bean Lake",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0323559743502,
+          39.467521360947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 60,
+        "PROJ_NAME": "Sni Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.93973836323444,
+          39.155846735523276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 81,
+        "PROJ_NAME": "Camden Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.01903342104893,
+          39.15253571623766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 64,
+        "PROJ_NAME": "St Helena Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.20130944538786,
+          42.81338108831034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 3,
+        "PROJ_NAME": "Auldon Bar",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.83507698221554,
+          40.84977467889471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 8,
+        "PROJ_NAME": "Blackbird Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.26646294587933,
+          42.046738976794586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 70,
+        "PROJ_NAME": "Tieville Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2348335523394,
+          42.03095563656284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 73,
+        "PROJ_NAME": "Upper Decatur Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2329904070299,
+          42.00592305233123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 47,
+        "PROJ_NAME": "Middle Decatur Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.19597962025323,
+          41.9996542487707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 43,
+        "PROJ_NAME": "Louisville Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.13633856095996,
+          41.95982007071895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 65,
+        "PROJ_NAME": "St Marys Island",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.854800735022,
+          41.07798923024156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 74,
+        "PROJ_NAME": "Van Horn Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.84626119721541,
+          40.835282710303936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 80,
+        "PROJ_NAME": "Copeland Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.84504902345357,
+          40.70819505215256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 39,
+        "PROJ_NAME": "Kansas Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.69991318363026,
+          40.49425402435464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 41,
+        "PROJ_NAME": "Langdon Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.64474870796437,
+          40.33795425335948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 11,
+        "PROJ_NAME": "Brownville Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.649627789465,
+          40.380030524473824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 83,
+        "PROJ_NAME": "Civil Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.84779475798199,
+          40.7905824734601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 49,
+        "PROJ_NAME": "Noddleman Island",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.82176426680128,
+          40.92983180429743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 71,
+        "PROJ_NAME": "Tobacco Island",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8430685019131,
+          40.97157667064073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 30,
+        "PROJ_NAME": "Frazers Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.76273637132579,
+          40.64600438417174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 44,
+        "PROJ_NAME": "Lower Dakota Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.41105949047821,
+          42.365125458192935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 31,
+        "PROJ_NAME": "Glovers Point Bend",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33799981374268,
+          42.26353661245315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 15,
+        "PROJ_NAME": "Confluence Point",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12500391523604,
+          38.83610415490347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 76,
+        "PROJ_NAME": "Snyder-Winnebago Complex",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.35008974985286,
+          42.2834422561809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 32,
+        "PROJ_NAME": "Grand Pass",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.32126314594264,
+          39.30917906065539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 32,
+        "PROJ_NAME": "Grand Pass",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.34092735928292,
+          39.294290485249746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 12,
+        "PROJ_NAME": "Burr Oak",
+        "PUB_MEDIA": "YES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.02011246895921,
+          39.88666799250201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "MAP_ID": 84,
+        "PROJ_NAME": "Bryan Island",
+        "PUB_MEDIA": "NO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.43504401756172,
+          38.822736256190375
+        ]
+      }
+    }
+  ]
+}
