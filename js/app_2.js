@@ -23,7 +23,7 @@ var featureLayer = L.mapbox.featureLayer()
 
 featureLayer.on('ready', function() {
     this.setStyle({
-        "radiou": 5,
+        "radious": 5,
         "color": "#43094c",
         "fillColor": "#43094c",
         "weight": .5,
