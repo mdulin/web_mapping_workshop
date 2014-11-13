@@ -59,7 +59,7 @@ var clickHandler = function(e){
   $('#info').fadeIn(400,function(){
     var info = '';
 
-    info = '<div>You clicked on the layer with the id of ' + feature.properties.PROJ_NAME + '</div>'
+    info = '<div>You clicked on the layer with the id of ' + feature.properties.PROJ_NAME + '</div>'+
     			'<p> Post to public site' + feature.properties.PUB_MEDIA +'</p>';
 
     $('#info').append(info);
