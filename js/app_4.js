@@ -60,7 +60,7 @@ var clickHandler = function(e){
     var info = '';
 
     info = '<div>You clicked on the layer with the id of ' + feature.properties.PROJ_NAME + '</div>'
-    			'<div> Post to public site' + feature.properties.PUB_MEDIA '</div>';
+    			'<div> Post to public site' + feature.properties.PUB_MEDIA +'</div>';
 
     $('#info').append(info);
   });
